@@ -1,6 +1,6 @@
 package Assignment_Activities
 
-import exercises.com.oopActivity04B.*
+import Assignment_Activities.Activity04B.*
 
 fun main(){
 
