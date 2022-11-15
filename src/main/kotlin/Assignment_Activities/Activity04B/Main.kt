@@ -1,6 +1,5 @@
-package Assignment_Activities
+package Assignment_Activities.Activity04B
 
-import Assignment_Activities.Activity04B.*
 
 fun main(){
 
